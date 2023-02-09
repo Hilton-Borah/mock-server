@@ -1,12 +1,4 @@
 {
-  "example": [
-    {
-      "name": "hai",
-      "status": "success"
-    },
-    {
-      "name":"laura",
-      "status":"failed"
-    }
+  "books": [
   ]
 }
